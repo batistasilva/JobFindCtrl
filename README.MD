@@ -1,4 +1,4 @@
-# Jobify
+# JobFindCtrl
 
 #### Track Your Job Search
 
